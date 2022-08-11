@@ -1,0 +1,3 @@
+[submodule "netsquid-simulationtools"]
+	path = netsquid-simulationtools
+	url = git@gitlab.com:ionphoton/netsquid-simulationtools.git
